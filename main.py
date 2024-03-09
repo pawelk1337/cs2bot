@@ -1,8 +1,18 @@
-import nextcord,logbook , settings, textwrap, io, steam.steamid as steamid, asyncio, utils, sys, nextcord.ext.commands, json, traceback
-from logbook import Logger, FileHandler, Flags, NestedSetup, NullHandler, StreamHandler
+import nextcord
+import logbook 
+import settings
+import textwrap
+import io
+import steam.steamid as steamid
+import asyncio
+import utils
+import sys
+import json
+import traceback
+import os
+
+from logbook import Logger, FileHandler, NestedSetup, NullHandler, StreamHandler
 from datetime import datetime
-from nextcord.ext import commands
-import base64, os
 from nextcord.ext import commands
 from contextlib import redirect_stdout
 
