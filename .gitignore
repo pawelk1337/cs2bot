@@ -1,0 +1,6 @@
+old/
+database/
+settings.py
+*.log
+*.json
+__pycache__

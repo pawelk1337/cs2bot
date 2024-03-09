@@ -1,0 +1,7 @@
+discord.py
+tinydb
+orjson
+aiodns
+Brotli
+cchardet
+aiohttp
